@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>El Enclave | Noticias</title>
+    <description>Últimas noticias y eventos de nuestra comunidad.</description>
+    <link>htps://elenclave.es/</link>
+    <language>es-es</language>
+    <!-- Noticia 1 -->
+    <item>
+      <title>Crisis política en Corea del Sur: Yoon Suk Yeol impone la ley marcial y disuelve el parlamento</title>
+      <description>Corea del Sur enfrenta su mayor crisis política en décadas tras la drástica decisión del presidente Yoon Suk Yeol de declarar la ley marcial y disolver el parlamento, desatando una batalla entre el ejecutivo y la oposición que podría transformar el rumbo del país.</description>
+      <link>https://elenclave.es/crisis-politica-en-corea-del-sur-yoon-suk-yeol-impone-la-ley-marcial-y-disuelve-el-parlamento/</link>
+      
+      <guid>https://elenclave.es/crisis-politica-en-corea-del-sur-yoon-suk-yeol-impone-la-ley-marcial-y-disuelve-el-parlamento/</guid>
+      <category>Eventos</category>
+    </item>
+
+    <!-- Noticia 2 -->
+    <item>
+      <title>Nueva agresión con arma blanca en el ‘hotel okupa’ de Madrid</title>
+      <description>Sun hombre de 25 años ha resultado herido por arma blanca en una reyerta sucedida en este edificio abandonado del barrio de San Blas. Se trata del cuarto incidente en un mes.</description>
+      <link>https://elenclave.es/agresion-arma-blanca-hotel-okupa-madrid/</link>
+      
+      <guid>https://elenclave.es/agresion-arma-blanca-hotel-okupa-madrid/</guid>
+      <category>Servicios Públicos</category>
+    </item>
+
+    <!-- Noticia 3 -->
+    <item>
+      <title>La máquina del fango</title>
+      <description>La máquina del fango.</description>
+      <link>https://elenclave.es/maquina-fango/</link>
+      <guid>https://elenclave.es/maquina-fango/</guid>
+      <category>Cultura</category>
+    </item>
+  </channel>
+</rss>
